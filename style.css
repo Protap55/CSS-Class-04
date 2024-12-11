@@ -1,0 +1,27 @@
+#paragraph-1{
+    background-color: aqua;
+    width: 400px;
+    height: 300px;
+    box-sizing: border-box;
+    border: 5px solid;
+    margin: 0px;
+    padding: 20px;
+    overflow: auto;
+}
+h1{
+    color: rgb(5, 5, 5);
+}
+#paragraph-2{
+    background-color: rgb(12, 241, 100);
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 5px solid;
+    margin: 30px;
+    padding: 20px;
+    overflow: scroll;
+}
+*{
+    background-color: coral;
+}
+
